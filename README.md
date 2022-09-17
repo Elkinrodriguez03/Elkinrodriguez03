@@ -1,11 +1,11 @@
-### Hi there!, I'm a Software Developer
+# Hi there!, I'm a Software Developer
 _______________________________________
 
 I am passionated about technology and get new challanges all time. I have been working in some projects to continue my learning-road in this amazing industry. 
 
 Here You can find programms based on Front-end and Back-end technologies. 
 
-Programming languages I work with:
+## Programming languages I work with:
 ------------------------------
 
   * HTML5
@@ -14,7 +14,7 @@ Programming languages I work with:
   * ReactJS
   * PHP
 
-Development tools: 
+## Development tools: 
 ------------------------------
 
   * Visual Studio Code
@@ -22,7 +22,7 @@ Development tools:
   * Git
   * GitHub
   
-Currently, I am working on:
+## Currently, I am working on:
 ------------------------------
 
   * RDBMS 
