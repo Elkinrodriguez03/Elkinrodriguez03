@@ -25,7 +25,7 @@ Here You can find programms based on Front-end and Back-end technologies.
   * MySQL
   * Laravel
   * NodeJS
-  * REST API
+  * RESTful API
 
 
 
