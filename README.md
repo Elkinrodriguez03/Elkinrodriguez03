@@ -1,31 +1,35 @@
 # Hi there!, I'm a Software Developer
 
-I am passionated about technology and get new challanges all time. I have been working in some projects to continue my learning-road in this amazing industry. 
+I am passionated about technology and get new challanges all time. I have been working in amazing projects that have given me a lot of experiences on this great industry. 
 
-Here You can find programms based on Front-end and Back-end technologies. 
+Here You can find repositories for personal projects I'm working on... 
 
-## Programming languages I work with:
+## Programming languages, Frameworks and libraries:
 
   * HTML5
   * CSS (Responsive Desing, Flexbox and Grid)
-  * JavaScrip
+  * JavaScript
   * ReactJS
-  * PHP
+  * NextJS
+  * Redux
+  * NodeJS
+  * Express
+  * Bootstrap
+  * Material UI
+  * Tailwind
+  * JSON
+  * PostgreSQL
+  * MongoDB
 
 ## Development tools: 
 
   * Visual Studio Code
   * WordPress
+  * Figma
+  * Jira
   * Git
   * GitHub
-  
-## Currently, I am working on:
-
-  * RDBMS 
-  * MySQL
-  * Laravel
-  * NodeJS
-  * RESTful API
+  * AWS
 
 
 
