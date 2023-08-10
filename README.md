@@ -9,6 +9,7 @@ Here You can find repositories for personal projects I'm working on...
   * HTML5
   * CSS (Responsive Desing, Flexbox and Grid)
   * JavaScript
+  * TypeScript
   * ReactJS
   * NextJS
   * Redux
