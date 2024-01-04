@@ -7,10 +7,11 @@ Here You can find repositories for personal projects I'm working on...
 ## Programming languages, Frameworks and libraries:
 
   * HTML5
-  * CSS (Responsive Desing, Flexbox and Grid)
+  * CSS (SASS - SCSS)
   * JavaScript
   * TypeScript
   * ReactJS
+  * Angular
   * NextJS
   * Redux
   * NodeJS
