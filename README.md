@@ -1,36 +1,34 @@
 # Hi there!, I'm a Software Developer
 
-I am passionated about technology and get new challanges all time. I have been working in amazing projects that have given me a lot of experiences on this great industry. 
-
-Here You can find repositories for personal projects I'm working on... 
+I'm a Software Developer passionate about code optimization and performance tuning for exceptional user experiences. I got solid knowledge in Object-Oriented Programming (OOP), Search Engine Optimization (SEO), debugging code, algorithms and Data Structures. Furthermore, I have been specializing in User Experience to design and develop functional applications achieving the highest quality of the delivered product. Also, I have strong communication skills, adaptability and problem-solving mindset.
 
 ## Programming languages, Frameworks and libraries:
 
   * HTML5
-  * CSS (SASS - SCSS)
+  * CSS3 (SASS - SCSS)
   * JavaScript
   * TypeScript
-  * ReactJS
+  * ReactJS (Redux - Context API)
   * Angular
   * NextJS
-  * Redux
   * NodeJS
+  * NestJS
   * Express
+  * MySQL
+  * Oracle
+  * PostgreSQL
+  * MongoDB
   * Bootstrap
   * Material UI
   * Tailwind
-  * JSON
-  * PostgreSQL
-  * MongoDB
 
 ## Development tools: 
 
-  * Visual Studio Code
-  * WordPress
-  * Figma
-  * Jira
   * Git
   * GitHub
+  * Docker
+  * WordPress
+  * Figma
   * AWS
 
 
